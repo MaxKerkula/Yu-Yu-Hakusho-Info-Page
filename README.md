@@ -10,7 +10,4 @@ A facts section containing a table with details about the main characters
 A memorable quotes section highlighting some unforgettable lines from the show
 A useful links section directing users to more information and streaming platforms for the series
 Technologies
-This fan page is built using the following technologies:
-
-HTML for structure and content
-CSS for styling and layout
+This fan page is built using HTML and CSS.
