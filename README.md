@@ -1,2 +1,1 @@
-# Portfolio
-Portfolio page index.html
+Yu-Yu-Hakusho info Page
