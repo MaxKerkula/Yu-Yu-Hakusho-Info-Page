@@ -1,14 +1,28 @@
-YuYu Hakusho Fan Page
-Hello there, fellow YuYu Hakusho fans! 👋
+Yu Yu Hakusho Info Page
+This is a web page that provides information about the anime and manga series "Yu Yu Hakusho". The page is built using HTML, CSS, and JavaScript.
 
-I've created this fan page to share my love for the classic anime series, YuYu Hakusho. As a fan, I wanted to build a tribute and reminisce about the adventures of Yusuke, Kuwabara, Kurama, and Hiei. This project showcases some fun facts, memorable quotes, and useful links related to the anime.
+Usage
+The Yu Yu Hakusho Info Page provides a brief overview of the series, a list of characters, and information about each character. The page also includes a photo gallery with images from the series.
 
-Features:
-A header featuring the title of the series.
-An image section with the anime cover art.
-A facts section containing a table with details about the main characters.
-A memorable quotes section highlighting some unforgettable lines from the show.
-A useful links section directing users to more information and streaming platforms for the series.
+To view the Yu Yu Hakusho Info Page, open the index.html file in your web browser.
 
-Technologies
-This fan page is built using HTML and CSS.
+Technical Details
+The Yu Yu Hakusho Info Page is built using the following technologies:
+
+HTML: Used to structure the content of the page.
+CSS: Used to style the page and add visual effects.
+JavaScript: Used to add interactivity to the page, such as displaying character information and the photo gallery.
+The page is designed to be responsive and works well on desktop and mobile devices.
+
+Contributing
+Contributions to this project are welcome. To contribute, fork this repository and make your changes. Then submit a pull request with a description of your changes.
+
+License
+This project is licensed under the MIT License.
+
+For more information on the license, please visit: https://opensource.org/licenses/MIT
+
+Contact
+If you have any questions or comments about this project, please contact Max Kerkula at maxkerkula@gmail.com.
+
+Thank you for using the Yu Yu Hakusho Info Page!
